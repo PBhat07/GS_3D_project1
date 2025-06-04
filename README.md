@@ -1,17 +1,18 @@
 
  # 🌟 3D Gaussian Splatting: Weekend Deep Dive
 
- ### PROJECT STRUCTURE:
-     📁 /content/drive/MyDrive/3d-gaussian-splatting-weekend/
-├── notebooks/
-│   ├── 01_setup_and_data.ipynb
-│   ├── 02_implementation.ipynb
-│   ├── 03_benchmarks.ipynb
-│   └── 04_documentation.ipynb
-├── data/
-├── results/
-├── docs/
-└── README.md
+## 📁 Project Structure
+
+    📁 /content/drive/MyDrive/3d-gaussian-splatting-weekend/
+    ├── notebooks/
+    │   ├── 01_setup_and_data.ipynb
+    │   ├── 02_implementation.ipynb
+    │   ├── 03_benchmarks.ipynb
+    │   └── 04_documentation.ipynb
+    ├── data/
+    ├── results/
+    ├── docs/
+    └── README.md
 
 > **Mission**: Implement real-time 3D reconstruction and document every discovery
 
